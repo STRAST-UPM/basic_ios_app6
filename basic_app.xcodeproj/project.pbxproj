@@ -112,15 +112,11 @@
 		};
 		B08A1BD82D560F5E00F8BBB8 /* basic_appTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-			);
 			path = basic_appTests;
 			sourceTree = "<group>";
 		};
 		B08A1BE22D560F5E00F8BBB8 /* basic_appUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-			);
 			path = basic_appUITests;
 			sourceTree = "<group>";
 		};
@@ -668,7 +664,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ines.basicapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.basic.app6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -700,7 +696,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ines.basicapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.basic.app6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
